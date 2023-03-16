@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oksana-kyryienko/react_get_add_Product/static/css/main.34d6d722.css",
+    "main.js": "/oksana-kyryienko/react_get_add_Product/static/js/main.6d39b9c0.js",
+    "index.html": "/oksana-kyryienko/react_get_add_Product/index.html",
+    "main.34d6d722.css.map": "/oksana-kyryienko/react_get_add_Product/static/css/main.34d6d722.css.map",
+    "main.6d39b9c0.js.map": "/oksana-kyryienko/react_get_add_Product/static/js/main.6d39b9c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d6d722.css",
+    "static/js/main.6d39b9c0.js"
+  ]
+}
